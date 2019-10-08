@@ -26,5 +26,9 @@ class ViewController: UIViewController {
     func testFunction2() {
         print("Test function2")
     }
+    
+    func testFunction() {
+        print("Hello World")
+    }
 }
 
